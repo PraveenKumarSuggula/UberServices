@@ -1,1 +1,1 @@
-Console.Log("Hello Everyone!!")
+Console.Log("Hi All. Welcome to gitHub tutorial !!")
